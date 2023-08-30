@@ -249,7 +249,7 @@ require (
 	github.com/huandu/xstrings v1.3.2 // indirect
 	github.com/imdario/mergo v0.3.12 // indirect
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
-	github.com/jonboulle/clockwork v0.2.1 // indirect
+	github.com/jonboulle/clockwork v0.2.2 // indirect
 	github.com/json-iterator/go v1.1.10 // indirect
 	github.com/jstemmer/go-junit-report v0.9.1 // indirect
 	github.com/kelseyhightower/envconfig v1.4.0 // indirect
@@ -278,7 +278,7 @@ require (
 	github.com/pborman/uuid v1.2.0 // indirect
 	github.com/pelletier/go-toml v1.7.0 // indirect
 	github.com/posener/complete v1.2.1 // indirect
-	github.com/russellhaering/goxmldsig v1.1.0 // indirect
+	github.com/russellhaering/goxmldsig v1.1.1 // indirect
 	github.com/satori/go.uuid v1.2.0 // indirect
 	github.com/sirupsen/logrus v1.8.1 // indirect
 	github.com/sourcegraph/jsonrpc2 v0.0.0-20210201082850-366fbb520750 // indirect
